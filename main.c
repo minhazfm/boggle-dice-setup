@@ -1,5 +1,5 @@
 //***********************************************************************
-// COP3502C - Boggle Assignment 1 - main.c
+// Boggle Dice Setup - main.c
 // Author: Minhaz Mohammad
 // A C program that reads in data from a file and stores it as
 // a linear linked list. A second linear linked list copies the
